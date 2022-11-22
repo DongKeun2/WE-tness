@@ -20,7 +20,7 @@
 
 ## 🔎 서비스 소개
 
-![intro](https://user-images.githubusercontent.com/44857166/187242914-c3ef1eeb-936c-4c8b-8719-fac0f7903fba.mp4)
+![intro](assets/intro.mp4)
 
 항상 작심 일일을 실행하고 있진 않으신가요?
 
@@ -84,15 +84,15 @@
 
 ### 튜토리얼 - 카메라 세팅 및 운동 별 가이드
 
-![screen-recording__2_](<assets/screen-recording%20(2).webm>)
+![screen-recording__2_](assets/screen2.webm)
 
 ### 랭킹 페이지 - 게임 종류 별(중복 선택 가능) 및 지역 별 랭킹
 
-![screen-recording__1_](<assets/screen-recording%20(1).webm>)
+![screen-recording__1_](assets/screen1.webm)
 
 ### 검색 - 유저, 방 검색 및 유저 운동 기록 조회
 
-![screen-recording](assets/screen-recording.webm)
+![screen-recording](assets/screen.webm)
 
 <br>
 <br>
